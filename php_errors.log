@@ -1,0 +1,25 @@
+[17-May-2017 01:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PublicController' not found in /home/ubuntu/workspace/app/Router.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/public/index.php(7): Router->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/app/Router.php on line 69
+[17-May-2017 01:21:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PublicController' not found in /home/ubuntu/workspace/app/Router.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/public/index.php(7): Router->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/app/Router.php on line 69
+[17-May-2017 01:22:40 UTC] PHP Fatal error:  Uncaught Error: Class 'PublicController' not found in /home/ubuntu/workspace/app/Router.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/public/index.php(7): Router->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/app/Router.php on line 69
+[17-May-2017 01:24:56 UTC] PHP Fatal error:  Uncaught Error: Class 'PublicController' not found in /home/ubuntu/workspace/app/Router.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/public/index.php(7): Router->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/app/Router.php on line 69
+[17-May-2017 01:28:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PublicController' not found in /home/ubuntu/workspace/app/Router.php:69
+Stack trace:
+#0 /home/ubuntu/workspace/public/index.php(7): Router->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/app/Router.php on line 69

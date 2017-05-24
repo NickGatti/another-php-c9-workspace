@@ -1,0 +1,16 @@
+composer init
+
+run comp.sh
+
+php vendor/bin/phinx init .
+change phinx.yml
+
+create folders ./db
+./db/migrations
+./db/seeds
+
+
+run:
+php vendor/bin/phinx create MyFirstCreation
+
+create new php built int srver with xdebug and CWD: public
